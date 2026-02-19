@@ -1,4 +1,5 @@
 Jogo desenvolvido no RPG Maker em 2020.
+
 A história acompanha WhiteSun, um jovem herói, ao lado de um pequeno grupo de aliados que fez durante o jornada.
 
 Explore a caminhada deste grupo e descubra a terrível verdade por trás do desaparecimento da família de WhiteSun.
